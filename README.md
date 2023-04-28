@@ -34,7 +34,8 @@ Edit Books Details
         ![image](https://user-images.githubusercontent.com/20696656/235142561-1e8844bd-ef2e-4fe8-a216-c124de96b8e5.png)
         
         Successsful Updated Books Details 
-        ![image](https://user-images.githubusercontent.com/20696656/235142671-ae345371-0d97-41c3-b1ef-e8823962942c.png)
+       ![image](https://user-images.githubusercontent.com/20696656/235142887-86d3057c-4062-4083-86eb-a4131b4a195c.png)
+
 
 
 
