@@ -16,7 +16,7 @@ Edit Books Details
       
       
       Delete Books and it will update flag as false
-      ![image](https://user-images.githubusercontent.com/20696656/235161521-12239f22-755e-41c0-b0e5-6d8f682a73b7.png)
+     ![image](https://user-images.githubusercontent.com/20696656/235161788-101ff3b4-02e3-41d7-9a2c-e31265e3ba6e.png)
 
 
 
