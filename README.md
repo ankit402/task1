@@ -22,3 +22,4 @@ public async Task<IActionResult> Index()
 The name of the method is Index.
 
 Inside the method, there is a conditional expression that checks if _context.Racks is not null.
+![image](https://user-images.githubusercontent.com/20696656/235142236-586f4630-4b16-4fe6-a475-aa1a3f0adbf9.png)
